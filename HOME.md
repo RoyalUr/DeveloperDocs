@@ -1,2 +1,5 @@
-# RoyalUr.net Developer Documentation
+---
+permalink: /
+---
+# DeveloperDocs
 Documentation of RoyalUr.net projects for developers. Work in progress.
