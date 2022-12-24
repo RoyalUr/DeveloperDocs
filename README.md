@@ -1,2 +1,2 @@
 # RoyalUr.net Developer Documentation
-Documentation of RoyalUr.net projects for developers. Work in progress.
+This repository contains developer documentation for the RoyalUr.net projects. This documentation is a work-in-progress.
